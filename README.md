@@ -1,4 +1,36 @@
-# Getting Started with Create React App
+
+## Key Functionalities of the UI:
+
+- Allows users to  get an topics for a document using the `/identify_topics` API endpoint.
+- Allows users to generate a summary for a document using the `/summarize` API endpoint.
+- Allows users to generate a text classification for a document using the `/classify` API endpoint.
+
+
+## API Endpoints Used:
+
+1. **Summarization:**
+   - Endpoint: `/summarize`
+   - Method: POST
+
+2. **Identify topics:**
+   - Endpoint: `/identify_topics`
+   - Method: POST
+
+3. **Classification text:**
+   - Endpoint: `/classify`
+   - Method: POST
+
+
+## Improvements:
+
+- Implement a more sophisticated UI design.
+- Enhance user experience with error messages.
+- Add additional features and interactions for a richer user interface.
+
+
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +99,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
